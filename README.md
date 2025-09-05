@@ -3,7 +3,7 @@
 <!--   <img src="https://i.imgur.com/z8d0z5R.png" alt="Profile Banner" width="100%" /> -->
 </p>
 
-<h1 align="center">Hi 👋, I'm Prathmesh</h1>
+<h1 align="center">Hi 👋, I'm Prathmesh More</h1>
 <h3 align="center">A Passionate Java Developer 🚀</h3>
 
 ---
@@ -37,8 +37,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathurajegaonkar&show_icons=true&theme=tokyonight" alt="stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathurajegaonkar&theme=tokyonight" alt="streak" width="48%" />
 </p>
 
 ---
@@ -52,4 +52,4 @@
 
 ---
 
-⭐️ From [Prathmesh](https://github.com/Prathurajegaonkar)
+⭐️ From [Prathmesh More](https://github.com/Prathurajegaonkar)
